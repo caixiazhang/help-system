@@ -6,7 +6,7 @@
   "created_at": "2022-08-22",
   "authors": ["caixia.zhang.zhang@merico.dev"],
   "tags": ["代码当量", "新增"],
-  "about": "https://github.com/merico-dev/ee-metric-help-doc/blob/main/md/zh/sample.md"
+  "about": 
 }
 ---
 # 新增当量趋势

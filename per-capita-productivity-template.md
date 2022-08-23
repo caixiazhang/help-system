@@ -6,7 +6,7 @@
   "created_at": "2022-08-22",
   "authors": ["caixia.zhang.zhang@merico.dev"],
   "tags": ["人均代码当量", "人均生产率","人均产出效率"],
-  "about": "https://github.com/merico-dev/ee-metric-help-doc/blob/main/md/zh/sample.md"
+  "about": ""
 }
 ---
 # 人均生产率趋势
